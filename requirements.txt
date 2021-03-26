@@ -1,0 +1,3 @@
+robotframework-databaselibrary==1.2.4
+allure-robotframework==2.8.40
+pymysql==1.0.2
